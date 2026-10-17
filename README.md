@@ -11,7 +11,7 @@ Una skill para Claude que hace que escriba como una persona y no como una IA. So
 
 ### En Claude (web, escritorio o móvil)
 
-1. Descarga el zip desde aquí: https://github.com/samuelcifg-source/humanizador/raw/main/humanizador.zip
+1. Descarga el zip desde aquí: https://github.com/samuelcifg-source/humanizador/releases/latest/download/humanizador.zip
 2. En Claude, ve a Ajustes > Funciones (Settings > Features) y sube el zip en la sección de skills.
 3. Listo. Abre un chat nuevo y pruébala.
 
